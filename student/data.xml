@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="data.css" ?>
+<students>
+<student>
+<USN> USN : 4VV15CS116</USN>
+<NAME> NAME : Sushaini </NAME>
+<COLLEGE> COLLEGE : VVCE</COLLEGE>
+<BRANCH> BRANCH : CSE</BRANCH>
+<YEAR> YEAR : 2019</YEAR>
+<EMAIL> EMAIL: sush@gmail.com </EMAIL>
+</student>
+
+<student>
+<USN> USN : 4VV15CS109</USN>
+<NAME> NAME : Srinidhi </NAME>
+<COLLEGE> COLLEGE : VVCE</COLLEGE>
+<BRANCH> BRANCH : CSE</BRANCH>
+<YEAR> YEAR : 2019</YEAR>
+<EMAIL> EMAIL: sri@gmail.com </EMAIL>
+</student>
+
+<student>
+<USN> USN : 4VV15CS128</USN>
+<NAME> NAME : Meghana </NAME>
+<COLLEGE> COLLEGE : VVCE</COLLEGE>
+<BRANCH> BRANCH : CSE</BRANCH>
+<YEAR> YEAR : 2019</YEAR>
+<EMAIL> EMAIL: meghu@gmail.com </EMAIL>
+</student>
+</students>
